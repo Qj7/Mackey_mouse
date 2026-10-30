@@ -1,5 +1,7 @@
 # Mackey
 
+**Separate Scroll Directions for Trackpad & Mouse.** Keep Natural Scrolling enabled on your Mac trackpad while restoring traditional, intuitive scroll directions for your external mouse. Customize independent scroll behaviors for each pointing device without changing macOS system preferences.
+
 Утилита в строке меню macOS. Колесо мыши и тачпад прокручиваются отдельно.
 
 Системную «Естественную прокрутку» можно оставить включённой: тачпад и Magic Mouse не меняются. Mackey переворачивает только щелчки колеса и может сгладить их в непрерывное движение.
