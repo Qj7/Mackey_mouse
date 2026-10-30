@@ -1,0 +1,49 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Xcode / Swift
+.build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# App / DMG build output (shipped DMG lives in landing/public/)
+build/
+*.app
+
+# Node / Next.js landing
+landing/node_modules/
+landing/.next/
+landing/out/
+landing/.turbo/
+landing/.vercel/
+landing/npm-debug.log*
+landing/yarn-debug.log*
+landing/yarn-error.log*
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+*.pem
+
+# Editors / tooling
+.idea/
+*.swp
+*.swo
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
