@@ -1,5 +1,4 @@
-/** Замените на свой username на buymeacoffee.com */
-const BUY_ME_A_COFFEE_URL = "https://www.buymeacoffee.com/mackeymouse";
+const BUY_ME_A_COFFEE_URL = "https://buymeacoffee.com/mackey_mouse";
 
 export function Donate() {
   return (
@@ -20,7 +19,7 @@ export function Donate() {
             href={BUY_ME_A_COFFEE_URL}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2.5 rounded-full bg-[#FFDD00] px-7 py-4 font-semibold text-black transition-transform hover:scale-[1.03] active:scale-95"
+            className="inline-flex items-center gap-2.5 rounded-full bg-accent px-7 py-4 font-semibold text-black transition-transform hover:scale-[1.03] active:scale-95"
           >
             <svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden>
               <path
